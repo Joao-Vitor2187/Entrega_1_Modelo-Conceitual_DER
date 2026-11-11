@@ -75,7 +75,7 @@ Modelagem de um sistema de gestão de informações para uma organização de pe
   O cadastro de clientes deve possuir os dados obrigatórios definidos pela empresa, incluindo CPF para clientes pessoa física e CNPJ para clientes pessoa jurídica.*
 - #### Pagamento
   Uma compra somente pode ser considerada efetuada após a confirmação do pagamento.*
-  
+   
   O pedido não deve ser liberado para as etapas seguintes enquanto o pagamento não estiver confirmado.
 - #### Desconto
   Compras realizadas por meio de Pix possuem desconto de 5% sobre o valor da compra.
