@@ -82,7 +82,7 @@ Modelagem de um sistema de gestão de informações para uma organização de pe
   
   O desconto deve ser aplicado somente quando a forma de pagamento selecionada for Pix.
   
-  Funcionários não possuem permissão para conceder descontos diferentes dos definidos pela empresa.
+  Funcionários não possuem permissão para conceder descontos diferentes dos definidos pela empresa. 
   
 
 - #### Estoque 
