@@ -5,7 +5,7 @@ Modelagem de um sistema de gestão de informações para uma organização de pe
 
 **Raimundo Walter RGM: 46852042**
 
-**Kaique Vieira Santos RGM: 47022493**
+**Kaique Vieira Santos RGM: 47022493** 
 
 **Vítor Bezerra Marques RGM: 47538775**
 ****
